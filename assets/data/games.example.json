@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "my-first-game",
+    "title": "My First Game",
+    "version": "1.0.0",
+    "genre": "Adventure",
+    "platform": "Windows",
+    "developer": "BEZ Studio",
+    "short_description": "A short description of your game.",
+    "long_description": "A longer description shown on the game page.",
+    "tags": ["Single-player", "Pygame"],
+    "cover_image_url": "assets/img/covers/my-first-game.webp",
+    "release_date": "2026-09-04",
+    "file_size_human": "85 MB",
+    "download_url": "https://github.com/YOUR-NAME/YOUR-REPO/releases/download/v1.0.0/MyFirstGame.zip",
+    "storage_path": ""
+  }
+]
